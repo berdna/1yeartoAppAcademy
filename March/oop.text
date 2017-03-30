@@ -1,0 +1,12 @@
+Static Variable is a variable that is related and based in terms of the class it stems from not the object
+The 4 basic principles of OOP are Encapsulation, Abstraction, Inheritance, Polymorphism
+Polymorphism 
+relates to multithreading to deal with memory and data inconsistenices by overloading or overriding methods
+Ex. Animal is the class but there are different animals so if you have a program that tells the animals to speak they will 
+all say slighty different things but still belong to the same class
+Inheritance
+Parent class gives methods and functions to child class
+Encapsulation 
+A class where data is all wrapped under one class name
+Abstraction 
+When we call the class but do not show all of its details
